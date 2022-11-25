@@ -239,10 +239,7 @@ function App () {
 
           </div>
             <h3>by Lawrence</h3>
-
-
-          {/* Play music section  */}
-          <hr/><br/>
+          <hr style={{margin: "auto"}}/><br/>
 
         
     
